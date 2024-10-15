@@ -5,6 +5,9 @@ body{
     display: flex;
 
 }
+h1{
+    font-weight:900pt;
+}
 
 .block1{
     margin: 10px;
